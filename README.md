@@ -24,11 +24,12 @@ This repository hosts download files for [aviolab.ai](https://aviolab.ai) websit
 
 Files are managed through the main website repository and automatically linked to the download system.
 
-## 🔗 Raw File Links
+## 🔗 File Access
 
-Files are accessed via GitHub raw links:
-- Public: `https://github.com/rpsnoopy/aviolab-ai-downloads/raw/main/public/filename.zip`
-- Clients: `https://github.com/rpsnoopy/aviolab-ai-downloads/raw/main/clients/CLIENT-ID/filename.zip`
+Files are accessed via:
+- **Public files**: GitHub raw links for files under 100MB: `https://github.com/rpsnoopy/aviolab-ai-downloads/raw/main/public/filename.zip`
+- **Large files**: GitHub releases for files over 100MB (e.g., TTR-SUITE.zip): `https://github.com/rpsnoopy/aviolab-ai-downloads/releases/download/v.3.0/filename.zip`
+- **Client files**: GitHub raw links: `https://github.com/rpsnoopy/aviolab-ai-downloads/raw/main/clients/CLIENT-ID/filename.zip`
 
 ## 📞 Support
 
