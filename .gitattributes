@@ -1,1 +1,2 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+# TTR-PROBE.zip files are <100MB and stored normally
+# TTR-SUITE.zip is >100MB and served via GitHub releases
