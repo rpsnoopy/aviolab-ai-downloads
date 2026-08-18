@@ -6,7 +6,6 @@ This repository hosts download files for [aviolab.ai](https://aviolab.ai) websit
 
 ```
 ├── public/                    # Public downloads (accessible by everyone)
-│   ├── TTR-PROBE.zip         # Technical analysis tool (60MB)
 │   ├── install-agents.zip    # Agent installation script with documentation
 │   ├── README_EN.md          # English documentation for install script
 │   └── README_IT.md          # Italian documentation for install script
@@ -57,9 +56,12 @@ Files are accessed via:
 
 ## 🛠️ Tools Available
 
-1. **TTR-PROBE** (60MB) - Technical analysis tool for document processing
-2. **TTR-SUITE** (484MB) - Complete suite package via releases
-3. **Install Agents** - Automated DLL installation script with:
+> TTR-PROBE is no longer a public download (withdrawn 2026-08-18): the unlicensed
+> installation runs the dotation probe on its own, so the standalone tool is not
+> distributed to visitors any more.
+
+1. **TTR-SUITE** (484MB) - Complete suite package via releases
+2. **Install Agents** - Automated DLL installation script with:
    - ZIP extraction capabilities
    - Recursive file search
    - Bilingual documentation
