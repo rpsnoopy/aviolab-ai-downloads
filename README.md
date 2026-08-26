@@ -60,7 +60,7 @@ Files are accessed via:
 > installation runs the dotation probe on its own, so the standalone tool is not
 > distributed to visitors any more.
 
-1. **[Copyright Finder](https://github.com/rpsnoopy/aviolab-ai-downloads/releases/tag/copyright-finder-v1.1.0)** - Free self-contained Windows tool for image provenance checks, AI-generated captions, reverse-image/Serper search, local similarity indexing and PDF reports
+1. **[IMAGE COPYRIGHT FINDER](https://github.com/rpsnoopy/aviolab-ai-downloads/releases/tag/copyright-finder-v1.2.0)** - Free self-contained Windows tool with multi-image/folder import, independent visual and semantic searches, editable AI descriptions, local similarity indexing and PDF reports
 2. **TTR-SUITE** (484MB) - Complete suite package via releases
 3. **Install Agents** - Automated DLL installation script with:
    - ZIP extraction capabilities
