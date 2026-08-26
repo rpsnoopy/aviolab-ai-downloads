@@ -21,9 +21,9 @@ This repository hosts download files for [aviolab.ai](https://aviolab.ai) websit
 
 ## 🔒 Security
 
-- All ZIP files are **password protected**
-- Passwords are communicated separately via secure channels
-- Public repository ensures reliable hosting and direct links
+- Free public tools are distributed openly through GitHub Releases
+- Client-specific ZIP files may be password protected; passwords are communicated separately via secure channels
+- The public repository provides reliable hosting and direct links
 
 ## 📝 File Management
 
@@ -60,8 +60,9 @@ Files are accessed via:
 > installation runs the dotation probe on its own, so the standalone tool is not
 > distributed to visitors any more.
 
-1. **TTR-SUITE** (484MB) - Complete suite package via releases
-2. **Install Agents** - Automated DLL installation script with:
+1. **[Copyright Finder](https://github.com/rpsnoopy/aviolab-ai-downloads/releases/tag/copyright-finder-v1.0.0)** - Free self-contained Windows tool for image provenance checks, reverse-image search and PDF reports
+2. **TTR-SUITE** (484MB) - Complete suite package via releases
+3. **Install Agents** - Automated DLL installation script with:
    - ZIP extraction capabilities
    - Recursive file search
    - Bilingual documentation
